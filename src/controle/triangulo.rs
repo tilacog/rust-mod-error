@@ -1,4 +1,4 @@
-use quadrado;
+use controle::quadrado;
 
 pub fn press_combo() {
     quadrado::press();
